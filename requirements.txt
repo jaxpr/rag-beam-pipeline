@@ -1,0 +1,3 @@
+apache-beam==2.54.0
+cohere==4.53
+weaviate-client==4.5.1
